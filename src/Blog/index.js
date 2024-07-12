@@ -1,8 +1,12 @@
 
 import React from 'react';
+
 import './index.css';
 
 
+
+
+// import './Blog.css';
 
 const Blog = () => {
   return (
