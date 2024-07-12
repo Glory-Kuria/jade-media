@@ -1,7 +1,7 @@
 import './index.css'
 const Portfolio = () => {
 return(
-<div>
+<div id='members'>
  <h2 className='team'>MEET THE JADE</h2>
  <div className='our-team'>
  <div className='images'>
@@ -34,7 +34,7 @@ return(
  <div>
  <img src='/images/glory.png'alt='member-four'/>
 <div className='caption'>
- <h3>Gloria Kuria</h3>
+ <h4>Gloria Kuria</h4>
   <p>Software Developer</p>
   <button>View more</button>
   
@@ -43,7 +43,7 @@ return(
 <div>
  <img src='/images/karen.png' alt='member-five'/>
 <div className='caption'>
-<h3>Caren Chepngetich</h3>
+<h4>Caren Chepngetich</h4>
  <p>Software Developer</p>
  <button>View more</button>
  
