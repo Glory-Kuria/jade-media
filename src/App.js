@@ -1,3 +1,9 @@
+import Podcast from "./Podcast";
+import "./index.css";
+function App() {
+  return (
+    <div className='App'>
+     <Podcast/>
 
 import './App.css';
 import LandingPage from './LandingPage';
