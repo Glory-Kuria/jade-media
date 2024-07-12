@@ -1,12 +1,14 @@
 
 import Navbar from "./Navbar"
 import LandingPage from "./LandingPage"
-import Blog from "./Blog";
+import Blog from "./Blog";;
 import Podcast from "./Podcast";
 import Portfolio from "./Portfolio";
 import Video from "./videos"; 
 import "./index.css";
+import Video from "./videos"; 
 
+   
 
 
 function App() {
@@ -18,6 +20,7 @@ function App() {
       <Blog/>
       <Podcast/>
       <Portfolio/>
+      <Video/>
       <Video/>
 
     
