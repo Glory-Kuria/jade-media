@@ -1,3 +1,11 @@
+
+import Video from "./videos"; 
+
+function App() {
+  return (
+    <div>
+    <Video/>
+
 import Navbar from "./Navbar"
 import LandingPage from "./LandingPage"
 import Podcast from "./Podcast";
@@ -11,6 +19,7 @@ function App() {
       <Podcast/>
       <Portfolio/>
      
+
     </div>
   );
 }
