@@ -4,6 +4,8 @@ import './index.css';
 
 
 
+// import './Blog.css';
+
 const Blog = () => {
   return (
     <div id="blog" className="blog-section">
