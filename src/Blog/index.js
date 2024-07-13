@@ -1,9 +1,15 @@
 
 import React from 'react';
+<<<<<<< HEAD:src/Blog/index.js
 // import './blog.css';
 import './index.css'
+=======
+import './index.css';
+>>>>>>> 3d27d1f690e701c854d5c86769ad6f80397837df:src/Blog/blog.js
 
 
+
+// import './Blog.css';
 
 const Blog = () => {
   return (

@@ -5,19 +5,14 @@
     max-width: 800px; 
     margin: auto; 
     box-shadow: 2 4px 8px rgba(0, 0, 0, 0.1); 
-    /* display: flex;
-    gap: 20%; */
+    
   }
-  
-  
   .blog-section h2 {
     font-size: 2rem;
     color: #333; 
     text-align: center; 
     margin-bottom: 20px; 
   }
-  
-  
   .blog-content, .case-studies {
     margin-bottom: 20px; 
     padding: 15px;
@@ -25,8 +20,6 @@
     border-radius: 5px; 
     border: 1px solid #ddd; 
   }
-  
-  
   .blog-content h3, .case-studies h3 {
     font-size: 1.5rem;
     color: #222; 
@@ -39,8 +32,6 @@
     color: #555; 
     line-height: 1.6; 
   }
-  
-  
   .blog-content a, .case-studies a {
     color: #007bff; 
     text-decoration: none; 

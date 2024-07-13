@@ -10,7 +10,11 @@ const LandingPage= ()=>{
             <div>
                 <button className='StartButton'>Start_Button</button>
             </div>
-            <img className ='logo'src="/Image/Multipng" alt="logo"/>
+
+            <img className ='logo'src="/images/MultiMedia.jpg" alt="logo"/>
+
+            <img className ='logo'src="/image/MultiMedia.jpg" alt="logo"/>
+
       
 
         </div>
